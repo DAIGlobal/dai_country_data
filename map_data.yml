@@ -1096,7 +1096,29 @@ DAI_Country_Data:
     Status: Inactive
   Nigeria:
     SOV_A3: NGA
-    Status: Inactive
+    Status: Active
+    Projects:
+      MADE:
+        Name: Market Development Programme for the Niger Delta
+        URL: http://dai.com/our-work/projects/nigeria—market-development-programme-made
+        Start_Date: 2013
+        End_Date: 2018
+        Client: U.K. Department for International Development
+      PDF:
+        Name: Policy Develpment Facility
+        Start_Date: 2011 
+        End_Date: 2015
+        Client: U.K. Department for International Development
+      FEPAR:
+        Name: Federal Public Administration Reform
+        Start_Date: 2011
+        End_Date: 2015
+        Client: U.K. Department for International Development
+      SPARC:
+        Name: State Partnership for Accountability Responsiveness and Capability
+        URL: http://dai.com/our-work/projects/nigeria—state-partnership-accountability-responsiveness-and-capability-sparc
+        Start_Date: 2008
+        End_Date: 2015
   Niue:
     SOV_A3: NIU
     Status: None
