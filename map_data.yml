@@ -826,7 +826,7 @@ DAI_Country_Data:
         Client: U.S. Agency for International Development
         Start_Date: 2011
         End_Date: 2016
-      VPA:
+      FLEGT:
         Name: Support Unit for Liberia FLEGT Voluntary Partnership Agreement
         URL: http://dai.com/our-work/projects/liberia%E2%80%94support-unit-liberia-flegt-voluntary-partnership-agreement-vpa
         Client:  U.K. Department for International Development
@@ -1143,6 +1143,11 @@ DAI_Country_Data:
         Client: U.K. Department for International Development
         Start_Date: 2012
         End_Date: 2015
+      KPG:
+        Name: Pakistan Khyber Pakhtunkhwa Governance Program
+        Client: U.S. Agency for International Development
+        Start_Date: 2015
+        End_Date: 2019
   Palau:
     SOV_A3: PLW
     Status: None
