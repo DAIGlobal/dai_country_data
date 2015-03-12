@@ -143,6 +143,12 @@ DAI_Country_Data:
         Client: European Commission
         Start_Date: 2015
         End_Date: 2019
+      EU_ACP:
+        Name: European Union Microfinance Programme
+        URL: http://dai.com/our-work/projects/african-caribbean-and-pacific–european-union-microfinance-programme
+        Client: European Commission
+        Start_Date: 2011
+        End_Date: 2015
   Belgium_Luxembourg:
     SOV_A3: BLX
     Status: None
@@ -648,13 +654,13 @@ DAI_Country_Data:
     Status: Inactive
   Israel:
     SOV_A3: ISR
-    Status: Active
-    Projects:
-      EGP:
-        Name: Palestine Effective Governance Program
-        Client: U.S. Agency for International Development
-        Start_Date: 2013
-        End_Date: 2017
+    Status: Inactive
+    # Projects:
+    #   EGP:
+    #     Name: Palestine Effective Governance Program
+    #     Client: U.S. Agency for International Development
+    #     Start_Date: 2013
+    #     End_Date: 2017
   Italy:
     SOV_A3: ITA
     Status: Inactive
@@ -1022,6 +1028,12 @@ DAI_Country_Data:
         Client: The U.K. Department for International Development
         Start_Date: 2012
         End_Date: 2017
+      FSD:
+        Name: Financial Sector Deepening
+        URL: http://dai.com/our-work/projects/zambia—financial-sector-deepening-zambia-fsdz
+        Client: U.K. Department for International Development
+        Start_Date: 2014
+        End_Date: 2019
   Myanmar:
     SOV_A3: MMR
     Status: Active
@@ -1186,11 +1198,11 @@ DAI_Country_Data:
           - Palestinian Ministry of Economics
         Start_Date: 2013
         End_Date: 2019
-      EGP:
-        Name: Palestine Effective Governance Program
-        Client: U.S. Agency for International Development
-        Start_Date: 2013
-        End_Date: 2017
+      # EGP:
+      #   Name: Palestine Effective Governance Program
+      #   Client: U.S. Agency for International Development
+      #   Start_Date: 2013
+      #   End_Date: 2017
       Compete:
         Name: The Compete Project
         URL: http://dai.com/our-work/projects/palestine%E2%80%94-compete-project
@@ -1205,6 +1217,11 @@ DAI_Country_Data:
         Name: Regional Climate Change Program
         Start_Date: 2013
         End_Date: 2018 
+      EU_PAN:
+        Name: Asistencia tecnica a un proyecto de apoyo a la cohesion social en Panama
+        Client: European Commission
+        Start_Date: 2011
+        End_Date: 2016
   Papua_New_Guinea:
     SOV_A3: PNG
     Status: Active
@@ -1670,6 +1687,24 @@ DAI_Country_Data:
         Client: U.S. Agency for International Development
         Start_Date: 2014
         End_Date: 2018
+      Servir:
+        Name: Cultivating Use of Better Information Activity
+        URL: http://dai.com/our-work/projects/worldwide%E2%80%94servir-program-demand-activity
+        Client: U.S. Agency for International Development
+        Start_Date: 2012
+        End_Date: 2015
+      FABRI:
+        Name: Further Advancing the Blue Revolution Initiative
+        URL: http://dai.com/our-work/projects/middle-east-and-north-africa%E2%80%94further-advancing-blue-revolution-initiative-fabri
+        Client: U.S. Agency for International Development
+        Start_Date: 2007
+        End_Date: 2016
+      HFG:
+        Name: Health Finance and Governance
+        URL: http://dai.com/our-work/projects/worldwide%E2%80%94health-financing-and-governance
+        Client: U.S. Agency for International Development
+        Start_Date: 2012
+        End_Date: 2017
   Uruguay:
     SOV_A3: URY
     Status: Inactive
@@ -1772,4 +1807,10 @@ DAI_Country_Data:
         End_Date: 2018
   Zimbabwe:
     SOV_A3: ZWE
-    Status: Inactive
+    Status: Active
+    Projects:
+      TRACE:
+        Name: Transparency Responsiveness Accountability and Citizen Engagement
+        Client: U.K. Department for International Development
+        Start_Date: 2015
+        End_Date: 2019
