@@ -465,6 +465,12 @@ DAI_Country_Data:
         Client: World Bank
         Start_Date: 2012
         End_Date: 2015
+      RPFCR:
+        Name: Review of Pacific Forum Compact Reporting
+        Client: Australian Department of Foreign Affairs and Trade
+      SCSP:
+        Name: Study on Community-based Social Protection
+        Client: Australian Department of Foreign Affairs and Trade
   Finland:
     SOV_A3: FI1
     Status: Inactive
@@ -1231,6 +1237,11 @@ DAI_Country_Data:
         URL: http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap
         Client: World Bank
         Start_Date: 2012
+        End_Date: 2015
+      PPQME:
+        Name: Program 2013 Performance Quality Mapping Exercise
+        Client: Australian Department of Foreign Affairs and Trade
+        Start_Date: 2013
         End_Date: 2015
   Paraguay:
     SOV_A3: PRY
