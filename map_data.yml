@@ -1,51 +1,51 @@
 ---
 DAI_Country_Data:
   Afghanistan:
-  SOV_A3: AFG
-  Status: Active
-  Projects:
-    SHAHAR:
-      Name: Strong Hubs for Afghan Hope and Resilience
-      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94strong-hubs-afghan-hope-and-resilience-shahar
-      Client: U.S. Agency for International Development
-      Start_Date: 2014
-      End_Date: 2017
-    RADP_North:
-      Name: Regional Agricultural Development Program
-      URL: http://dai.com/our-work/projects/afghanistan-regional-agricultural-development-program-radp%E2%80%93north
-      Client: U.S. Agency for International Development
-      Start_Date: 2014
-      End_Date: 2019
-    SAARC:
-      Name: EU Public Diplomacy and Outreach in India and the South Asian Association for Regional Cooperation
-      URL: http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association
-      Client: European Commission
-      Start_Date: 2013
-      End_Date: 2016
-    ALBA:
-      Name: Assistance to Legislative Bodies of Afghanistan
-      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94assistance-legislative-bodies-afghanistan-alba
-      Client: U.S. Agency for International Development
-      Start_Date: 2013
-      End_Date: 2018
-    ABADE:
-      Name: Assistance in Building Afghanistan by Development Enterprise
-      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94assistance-building-afghanistan-development-enterprise-abade
-      Client: U.S. Agency for International Development
-      Start_Date: 2012
-      End_Date: 2016
-    SIKA_North:
-      Name: Stability in Key Areas North
-      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94stability-key-areas-north-sika-north
-      Client: U.S. Agency for International Development
-      Start_Date: 2012
-      End_Date: 2014
-    IDEA_NEW:
-      Name: 'Incentives Driving Economic Alternatives for the North, East, and West'
-      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94incentives-driving-economic-alternatives-north-east-and-west-idea-new
-      Client: U.S. Agency for International Development
-      Start_Date: 2009
-      End_Date: 2015
+    SOV_A3: AFG
+    Status: Active
+    Projects:
+      SHAHAR:
+        Name: Strong Hubs for Afghan Hope and Resilience
+        URL: http://dai.com/our-work/projects/afghanistan%E2%80%94strong-hubs-afghan-hope-and-resilience-shahar
+        Client: U.S. Agency for International Development
+        Start_Date: 2014
+        End_Date: 2017
+      RADP_North:
+        Name: Regional Agricultural Development Program
+        URL: http://dai.com/our-work/projects/afghanistan-regional-agricultural-development-program-radp%E2%80%93north
+        Client: U.S. Agency for International Development
+        Start_Date: 2014
+        End_Date: 2019
+      SAARC:
+        Name: EU Public Diplomacy and Outreach in India and the South Asian Association for Regional Cooperation
+        URL: http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association
+        Client: European Commission
+        Start_Date: 2013
+        End_Date: 2016
+      ALBA:
+        Name: Assistance to Legislative Bodies of Afghanistan
+        URL: http://dai.com/our-work/projects/afghanistan%E2%80%94assistance-legislative-bodies-afghanistan-alba
+        Client: U.S. Agency for International Development
+        Start_Date: 2013
+        End_Date: 2018
+      ABADE:
+        Name: Assistance in Building Afghanistan by Development Enterprise
+        URL: http://dai.com/our-work/projects/afghanistan%E2%80%94assistance-building-afghanistan-development-enterprise-abade
+        Client: U.S. Agency for International Development
+        Start_Date: 2012
+        End_Date: 2016
+      SIKA_North:
+        Name: Stability in Key Areas North
+        URL: http://dai.com/our-work/projects/afghanistan%E2%80%94stability-key-areas-north-sika-north
+        Client: U.S. Agency for International Development
+        Start_Date: 2012
+        End_Date: 2014
+      IDEA_NEW:
+        Name: 'Incentives Driving Economic Alternatives for the North, East, and West'
+        URL: http://dai.com/our-work/projects/afghanistan%E2%80%94incentives-driving-economic-alternatives-north-east-and-west-idea-new
+        Client: U.S. Agency for International Development
+        Start_Date: 2009
+        End_Date: 2015
   Albania: 
     SOV_A3: ALB
     Status: Inactive
