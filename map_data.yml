@@ -1667,8 +1667,10 @@ DAI_Country_Data:
     SOV_A3: GB1
     Status: Active
     Projects:
-      CEIL_PEAKS:
-        Name: CEIL PEAKS
+    Evidence_on_Demand:
+      Name: Evidence on Demand
+      URL: http://dai.com/our-work/projects/worldwide—evidence-demand-core-services
+      Client: U.K. Department for International Development 
   United_States:
     SOV_A3: US1
     Status: Active
