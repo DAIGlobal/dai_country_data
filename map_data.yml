@@ -1,51 +1,51 @@
 ---
 DAI_Country_Data:
   Afghanistan:
-    SOV_A3: AFG
-    Status: Active
-    Projects:
-      SHAHAR:
-        Name: Strong Hubs for Afghan Hope and Resilience
-        URL: http://dai.com/our-work/projects/afghanistan%E2%80%94strong-hubs-afghan-hope-and-resilience-shahar
-        Client: U.S. Agency for International Development
-        Start_Date: 2014
-        End_Date: 2017
-      RADP_North:
-        Name: Regional Agricultural Development Program
-        URL: http://dai.com/our-work/projects/afghanistan-regional-agricultural-development-program-radp%E2%80%93north
-        Client: U.S. Agency for International Development
-        Start_Date: 2014
-        End_Date: 2019
-      SAARC:
-        Name: EU Public Diplomacy and Outreach in India and the South Asian Association for Regional Cooperation
-        URL: http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association
-        Client: European Commission
-        Start_Date: 2013
-        End_Date: 2016
-      ALBA:
-        Name: Assistance to Legislative Bodies of Afghanistan
-        URL: http://dai.com/our-work/projects/afghanistan%E2%80%94assistance-legislative-bodies-afghanistan-alba
-        Client: U.S. Agency for International Development
-        Start_Date: 2013
-        End_Date: 2018
-      ABADE:
-        Name: Assistance in Building Afghanistan by Development Enterprise
-        URL: http://dai.com/our-work/projects/afghanistan%E2%80%94assistance-building-afghanistan-development-enterprise-abade
-        Client: U.S. Agency for International Development
-        Start_Date: 2012
-        End_Date: 2016
-      SIKA_North:
-        Name: Stability in Key Areas North
-        URL: http://dai.com/our-work/projects/afghanistan%E2%80%94stability-key-areas-north-sika-north
-        Client: U.S. Agency for International Development
-        Start_Date: 2012
-        End_Date: 2014
-      IDEA_NEW:
-        Name: 'Incentives Driving Economic Alternatives for the North, East, and West'
-        URL: http://dai.com/our-work/projects/afghanistan%E2%80%94incentives-driving-economic-alternatives-north-east-and-west-idea-new
-        Client: U.S. Agency for International Development
-        Start_Date: 2009
-        End_Date: 2015
+  SOV_A3: AFG
+  Status: Active
+  Projects:
+    SHAHAR:
+      Name: Strong Hubs for Afghan Hope and Resilience
+      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94strong-hubs-afghan-hope-and-resilience-shahar
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2017
+    RADP_North:
+      Name: Regional Agricultural Development Program
+      URL: http://dai.com/our-work/projects/afghanistan-regional-agricultural-development-program-radp%E2%80%93north
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2019
+    SAARC:
+      Name: EU Public Diplomacy and Outreach in India and the South Asian Association for Regional Cooperation
+      URL: http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association
+      Client: European Commission
+      Start_Date: 2013
+      End_Date: 2016
+    ALBA:
+      Name: Assistance to Legislative Bodies of Afghanistan
+      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94assistance-legislative-bodies-afghanistan-alba
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    ABADE:
+      Name: Assistance in Building Afghanistan by Development Enterprise
+      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94assistance-building-afghanistan-development-enterprise-abade
+      Client: U.S. Agency for International Development
+      Start_Date: 2012
+      End_Date: 2016
+    SIKA_North:
+      Name: Stability in Key Areas North
+      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94stability-key-areas-north-sika-north
+      Client: U.S. Agency for International Development
+      Start_Date: 2012
+      End_Date: 2014
+    IDEA_NEW:
+      Name: 'Incentives Driving Economic Alternatives for the North, East, and West'
+      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94incentives-driving-economic-alternatives-north-east-and-west-idea-new
+      Client: U.S. Agency for International Development
+      Start_Date: 2009
+      End_Date: 2015
   Albania: 
     SOV_A3: ALB
     Status: Inactive
@@ -465,12 +465,11 @@ DAI_Country_Data:
         Client: World Bank
         Start_Date: 2012
         End_Date: 2015
-      RPFCR:
-        Name: Review of Pacific Forum Compact Reporting
+      RAS:
+        Name: Regional Advisory Services
         Client: Australian Department of Foreign Affairs and Trade
-      SCSP:
-        Name: Study on Community-based Social Protection
-        Client: Australian Department of Foreign Affairs and Trade
+        Start_Date: 2014
+        End_Date: 2016
   Finland:
     SOV_A3: FI1
     Status: Inactive
@@ -1194,7 +1193,7 @@ DAI_Country_Data:
   Palestine:
     SOV_A3: PSE
     Status: Active
-    Proejcts:
+    Projects:
       PMDP:
         Name: Palestinian Market Development Programme
         URL: http://dai.com/our-work/projects/palestinian-market-development-programme-pmdp
@@ -1231,17 +1230,17 @@ DAI_Country_Data:
   Papua_New_Guinea:
     SOV_A3: PNG
     Status: Active
-    Project:
+    Projects:
       C_CAP:
         Name: Coastal Community Adaptation Project
         URL: http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap
         Client: World Bank
         Start_Date: 2012
         End_Date: 2015
-      PPQME:
-        Name: Program 2013 Performance Quality Mapping Exercise
+      PBMA:
+        Name: Specialist supporting performance benchmarking and mutual accountability for Australia's assistance to Bougainville
         Client: Australian Department of Foreign Affairs and Trade
-        Start_Date: 2013
+        Start_Date: 2015
         End_Date: 2015
   Paraguay:
     SOV_A3: PRY
